@@ -26,7 +26,7 @@ st.markdown("""
 <style>
     /* Main app background */
     .stApp {
-        background-color: #d4acod; /* Light grey background */
+        background-color: #000000; /* Light grey background */
     }
 
     /* Title style */
